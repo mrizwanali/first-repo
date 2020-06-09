@@ -70,7 +70,7 @@ f_word = "<------ That's All ----->"
 # In[12]:
 
 
-print("\n")
+print("\nIn the name of Allah")
 
 
 # In[13]:
